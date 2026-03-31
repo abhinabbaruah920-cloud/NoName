@@ -43,7 +43,7 @@ CIP
 ✅ Recommended:
 GEN
 IPM
-## 🔥 Future Improvements
+## Future Improvements
 - SHAP explainability
 - Deep learning models
 - Real-time hospital integration
