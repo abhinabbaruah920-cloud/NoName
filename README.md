@@ -1,6 +1,5 @@
 # Team NoName
 # 🧬 Antibiotic Resistance Prediction System
-
 ## Overview
 Antimicrobial resistance is one of the most critical global health challenges. This project uses Machine Learning to predict antibiotic resistance and suggest effective treatments. The system analyzes patient and clinical data to determine which antibiotics are likely to be ineffective (resistant) and which can be recommended.
 ## Features
@@ -17,9 +16,9 @@ Predict antibiotic resistance patterns based on patient and clinical data to sup
 - Evaluation Metric:
   - Hamming Loss
   - Per-antibiotic accuracy
-
 ## Installation
-
+### Clone the repository
+git clone https://github.com/YOUR_USERNAME/antibiotic-resistance-prediction.git
 ### Create virtual environment
 python -m venv venv
 Activate:
@@ -48,3 +47,4 @@ IPM
 - Deep learning models
 - Real-time hospital integration
 - API deployment
+## NOTE: Raw datasets and trained models are not included in the repository
