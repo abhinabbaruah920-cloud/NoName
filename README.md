@@ -18,7 +18,7 @@ Predict antibiotic resistance patterns based on patient and clinical data to sup
   - Per-antibiotic accuracy
 ## Installation
 ### Clone the repository
-git clone https://github.com/YOUR_USERNAME/antibiotic-resistance-prediction.git
+git clone LINK
 ### Create virtual environment
 python -m venv venv
 Activate:
