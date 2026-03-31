@@ -32,6 +32,8 @@ data\process_data.py
 python main.py
 ### Step 3: Run Streamlit app
 streamlit run app/streamlit_app.py
+### Step 4: To EXIT
+ctrl+c
 ## Demo
 The system allows users to:
 - Input patient details
