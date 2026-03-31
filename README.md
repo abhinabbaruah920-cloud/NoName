@@ -26,9 +26,11 @@ venv\Scripts\activate
 ### 3. Install dependencies
 pip install -r requirements.txt
 ## How to Run
-### Step 1: Train model
+### Step 1: Build the dataset
+data\process_data.py
+### Step 2: Train model
 python main.py
-### Step 2: Run Streamlit app
+### Step 3: Run Streamlit app
 streamlit run app/streamlit_app.py
 ## Demo
 The system allows users to:
