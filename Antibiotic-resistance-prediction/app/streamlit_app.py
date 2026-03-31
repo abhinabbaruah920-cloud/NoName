@@ -9,7 +9,7 @@ import os
 st.set_page_config(page_title="Antibiotic Predictor", layout="wide")
 
 # -------------------------------
-# CUSTOM STYLING (SOFT UI)
+# STYLING
 # -------------------------------
 st.markdown("""
 <style>
